@@ -1,0 +1,340 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cbtb.clickbank.net/?vendor=crefresh
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\index.htm
+Content Type: text/javascript
+
+Uri: https://d39ldsmboekjvi.cloudfront.net/css/useproof.css
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\css (1)\useproof.css
+Content Type: text/css
+
+Uri: https://d39ldsmboekjvi.cloudfront.net/images/credit-card-icons.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\images\credit-card-icons.png
+Content Type: image/png
+
+Uri: https://d39ldsmboekjvi.cloudfront.net/js/useproof.js
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\js\useproof.js
+Content Type: application/javascript
+
+Uri: https://d39ldsmboekjvi.cloudfront.net/uikit3/js/uikit.min.js
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\uikit3\js\uikit.min.js
+Content Type: application/javascript
+
+Uri: https://fast.wistia.com/assets/external/E-v1.js
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\assets\external\E-v1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i|Lato:400,400i,700,700i,900|Source+Serif+Pro:400,400i,600,600i|Fira+Sans+Extra+Condensed:700,300&display=block
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\icon
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons+Outlined
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\icon-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/firasansextracondensed/v10/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3USLr3i-pA.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\firasansextracondensed\v10\NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3USLr3i-pA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasansextracondensed/v10/NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3VSMr3i-pA.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\firasansextracondensed\v10\NaPPcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda3VSMr3i-pA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\materialicons\v142\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialiconsoutlined/v109/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\materialiconsoutlined\v109\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v17/neIQzD-0qpwxpaWvjeD0X88SAOeauXQ-pQ.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\sourceserifpro\v17\neIQzD-0qpwxpaWvjeD0X88SAOeauXQ-pQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v17/neIVzD-0qpwxpaWvjeD0X88SAOeauXEGfS-axq0u.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\sourceserifpro\v17\neIVzD-0qpwxpaWvjeD0X88SAOeauXEGfS-axq0u.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v17/neIWzD-0qpwxpaWvjeD0X88SAOeauXEOoguK.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\sourceserifpro\v17\neIWzD-0qpwxpaWvjeD0X88SAOeauXEOoguK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourceserifpro/v17/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSyqwQ.ttf
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\s\sourceserifpro\v17\neIXzD-0qpwxpaWvjeD0X88SAOeasasatSyqwQ.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=318418344452270&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-0MRQ5JLCST
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://yourcollagensource.com/cb/?
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\index.htm
+Content Type: text/html
+
+Uri: https://yourcollagensource.com/cb/css/custom.css
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\css\custom.css
+Content Type: text/css
+
+Uri: https://yourcollagensource.com/cb/css/tailwind.css
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\css\tailwind.css
+Content Type: text/css
+
+Uri: https://yourcollagensource.com/cb/img/1.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\1.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/2.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\2.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/3.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\3.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/3bottles.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\3bottles.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cb/img/4.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\4.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/5.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\5.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/6.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\6.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/animal-collagen.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\animal-collagen.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/bg_top.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\bg_top.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/bottle-big.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\bottle-big.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cb/img/bottle-ing.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\bottle-ing.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cb/img/bovine.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\bovine.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/buy-256-bit.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\buy-256-bit.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cb/img/buy-secure.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\buy-secure.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cb/img/certificate.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\certificate.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/copper.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\copper.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/df.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\df.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/eggshell.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\eggshell.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/et.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\et.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/hyaluronic-acid.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\hyaluronic-acid.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/iso.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\iso.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/leaf.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\leaf.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/leucotomos.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\leucotomos.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/manufacturing.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\manufacturing.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/marine.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\marine.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/ni.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\ni.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/cb/img/vitamin-c.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\vitamin-c.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/vitamin-e.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\vitamin-e.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/cb/img/woman-confidence.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\woman-confidence.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cb/img/woman-fit.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cb\img\woman-fit.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://yourcollagensource.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://yourcollagensource.com/global/css/global.css
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\css\global.css
+Content Type: text/css
+
+Uri: https://yourcollagensource.com/global/css/uikit.min.css
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\css\uikit.min.css
+Content Type: text/css
+
+Uri: https://yourcollagensource.com/global/img/andrea-small.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\andrea-small.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/global/img/andrea_sign.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\andrea_sign.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/bpa-free.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\bpa-free.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/cgmp.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\cgmp.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/crustacean.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\crustacean.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/dairy-free.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\dairy-free.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/fda-facility.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\fda-facility.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/gf.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\gf.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/manufactured-usa.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\manufactured-usa.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/non-gmo.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\non-gmo.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/nut-free.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\nut-free.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/pure.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\pure.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/soy-free.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\soy-free.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/badges/vegan.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\badges\vegan.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/favicon.png
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\favicon.png
+Content Type: image/png
+
+Uri: https://yourcollagensource.com/global/img/label.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\label.jpg
+Content Type: image/jpeg
+
+Uri: https://yourcollagensource.com/global/img/logo-gold.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\logo-gold.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/global/img/logo-white.svg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://yourcollagensource.com/global/img/nutrition-crefresh.jpg
+File Name: C:\Downloaded Web Sites\yourcollagensource.com\global\img\nutrition-crefresh.jpg
+Content Type: image/jpeg
+

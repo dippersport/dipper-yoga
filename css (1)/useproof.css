@@ -1,0 +1,93 @@
+#notification-widget {
+	position: fixed;
+	bottom: 15px;
+	left: 15px;
+	background: white;
+	padding: 10px;
+	border: 1px solid rgba(216, 217, 226, .5);
+	box-shadow: 10px 20px 40px 0 rgba(36,35,40,.1);
+	width: 352px;
+	z-index: 9999;
+	border-radius: 99px;
+	display: none; /* Initially hidden */
+}
+.useproof-info a, .useproof-info a:hover {
+	text-decoration: none;
+	color:inherit;
+}
+.useproof-info {
+	font-size:14px;
+	margin-left:-6px;
+	margin-bottom:2px;
+	padding:0 4px;
+	text-overflow: ellipsis;
+	font-weight: bold;
+	white-space: nowrap;
+	overflow-x: hidden;
+	max-width: 220px;
+	width:max-content;
+	vertical-align: middle;
+	letter-spacing: -.01em;
+	border-radius: 4px;
+	background:#f0f1f7;
+}
+.useproof-product {
+	letter-spacing: -.03em;
+	margin-left:-2px;
+	font-size:13px;
+	margin-bottom:2px;
+	text-overflow: ellipsis;
+	color:#3E3E3E;
+}
+.useproof-wrap {
+	display:flex;
+	align-items: center;
+	position: relative;
+}
+.useproof-time {
+	font-size:11px;
+	color:#979797;
+	margin-left:-2px;
+	letter-spacing: -.01em;
+}
+.useproof-state {
+	text-transform: uppercase;
+}
+.useproof-close {
+	position: absolute;
+	right:10px;
+	top:1px;
+	width: 11px;
+	height: 11px;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	opacity:0.2;
+}
+.useproof-close:hover {
+	cursor: pointer;
+	opacity:0.5;
+}
+.useproof-wrap span {
+	display: block;
+}
+.useproof-image {
+	width: 23%;
+	height: auto;
+	margin-right:1rem;
+	padding:2px;
+}
+@media(max-width:600px) {
+	#notification-widget {
+		width: 100%;
+		border-radius: 0;
+		bottom:0;
+		left:0;
+	}
+	.useproof-image {
+		width: 18%;
+		height: auto;
+		margin-right:1rem;
+		padding:2px;
+	}
+}
